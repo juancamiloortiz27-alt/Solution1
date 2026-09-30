@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="lib_salones/lib_salones.csproj" />
+  <Project Path="vista_notas/vista_notas.csproj" />
+</Solution>
